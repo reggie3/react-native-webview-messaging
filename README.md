@@ -1,6 +1,6 @@
 # React Native WebView Messaging
 
-React Native WebView extension with 2-way event-based communication API
+### React Native WebView extension with 2-way event-based communication API
 
 ![Demo](http://i.imgur.com/BPKQpLf.gif)
 
